@@ -5,5 +5,5 @@ I'm a recent graduate who is passionate about backend development. I'm eager to 
 
 *   🖥️  See my portfolio at [MyPortfolio](http://portfolio-taupe-two-29.vercel.app/)
 *   ✉️  You can contact me at [phonsawan.suarab@gmail.com](mailto:phonsawan.suarab@gmail.com)
-*   🧠  I'm learning I’m currently learning about front-end and back-end developer.### Skills 
+*   🧠  I'm learning I’m currently learning about front-end and back-end developer.
 
